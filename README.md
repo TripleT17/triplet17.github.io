@@ -10,7 +10,7 @@ I am a seasoned Systems Administrator with over 9 years of experience in IT, cur
 
 - **Systems Administration**: Expertise in managing and maintaining servers, configuring networks, and ensuring system reliability.
 - **Network Administration**: Proficient in network setup, monitoring, and optimization.
-- **Scripting & Automation**: Experienced with scripting languages like Bash, Python, and Ansible for automation and efficiency.
+- **Scripting & Automation**: Experienced with various scripting languages including Bash, PowerShell, Python, and Ansible for automation and efficiency.
 - **Security**: Skilled in implementing and managing security policies and practices.
 - **Monitoring & Logging**: Familiar with tools like Graylog, FortiGate, and system performance monitoring.
 
