@@ -239,8 +239,6 @@ body, html {
     border-radius: 5px;
     height: auto;
     width: 20vw;
-    left: 10%;
-    top: 12%;
     position: absolute;
     z-index: 1;
     overflow: hidden;
