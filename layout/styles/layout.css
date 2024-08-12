@@ -238,10 +238,10 @@ body, html {
     box-shadow: 0 0 1rem .2rem rgba(0, 0, 0, .5); 
     border-radius: 5px;
     height: auto;
-    width: auto;
+    width: 25vw;
     left: 10%;
-    top: 10%;
-    position: relative;
+    top: 15%;
+    position: absolute;
     z-index: 1;
     overflow: hidden;
   }
