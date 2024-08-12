@@ -237,8 +237,8 @@ body, html {
   .headshot {
     box-shadow: 0 0 1rem .2rem rgba(0, 0, 0, .5); 
     border-radius: 5px;
-    height: 500px;
-    width: 400px;
+    height: auto;
+    width: auto;
     left: 10%;
     top: 12%;
     position: absolute;
