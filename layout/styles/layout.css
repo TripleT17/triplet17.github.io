@@ -240,8 +240,8 @@ body, html {
     height: auto;
     width: 20vw;
     left: 10%;
-    top: 12%;
-    bottom: 12%;
+    top: 10%;
+    bottom: 10%;
     position: absolute;
     z-index: 1;
     overflow: hidden;
