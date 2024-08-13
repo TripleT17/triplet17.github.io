@@ -237,10 +237,10 @@ body, html {
   .headshot {
     box-shadow: 0 0 1rem .2rem rgba(0, 0, 0, .5); 
     border-radius: 5px;
-    height: auto;
-    width: 25vw;
-    left: 10%;
-    top: 15%;
+    height: 85%;
+    width: auto;
+    top: 8%;
+    left: 5%;
     position: absolute;
     z-index: 1;
     overflow: hidden;
