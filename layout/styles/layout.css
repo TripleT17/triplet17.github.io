@@ -283,71 +283,11 @@ body, html {
     background-size: 300% 300%;
   }  
 
-  input[type=text1] {
+  input[type=text] {
     width: 85%;
     padding: 12px;
     left: 8%;
     top: 18%;
-    border: 1px solid #ccc;
-    box-shadow: 0 0 1rem .1rem rgba(0, 0, 0, .5); 
-    border-radius: 4px;
-    box-sizing: border-box;
-    margin-top: 6px;
-    margin-bottom: 16px;
-    resize: vertical;
-    position: absolute;
-  }
-
-  input[type=text2] {
-    width: 85%;
-    padding: 12px;
-    left: 8%;
-    top: 26%;
-    border: 1px solid #ccc;
-    box-shadow: 0 0 1rem .1rem rgba(0, 0, 0, .5); 
-    border-radius: 4px;
-    box-sizing: border-box;
-    margin-top: 6px;
-    margin-bottom: 16px;
-    resize: vertical;
-    position: absolute;
-  }
-
-  input[type=text3] {
-    width: 85%;
-    padding: 12px;
-    left: 8%;
-    top: 34%;
-    border: 1px solid #ccc;
-    box-shadow: 0 0 1rem .1rem rgba(0, 0, 0, .5); 
-    border-radius: 4px;
-    box-sizing: border-box;
-    margin-top: 6px;
-    margin-bottom: 16px;
-    resize: vertical;
-    position: absolute;
-  }
-
-  input[type=text4] {
-    width: 85%;
-    padding: 12px;
-    left: 8%;
-    top: 42%;
-    border: 1px solid #ccc;
-    box-shadow: 0 0 1rem .1rem rgba(0, 0, 0, .5); 
-    border-radius: 4px;
-    box-sizing: border-box;
-    margin-top: 6px;
-    margin-bottom: 16px;
-    resize: vertical;
-    position: absolute;
-  }
-
-  input[type=text5] {
-    width: 85%;
-    padding: 12px;
-    left: 8%;
-    top: 50%;
     border: 1px solid #ccc;
     box-shadow: 0 0 1rem .1rem rgba(0, 0, 0, .5); 
     border-radius: 4px;
