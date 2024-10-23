@@ -298,6 +298,21 @@ body, html {
     position: absolute;
   }
 
+input[type=email] {
+    width: 85%;
+    padding: 12px;
+    left: 8%;
+    top: 18%;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 1rem .1rem rgba(0, 0, 0, .5); 
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    position: absolute;
+  }
+
   textarea {
     width: 85%;
     padding: 12px;
