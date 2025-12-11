@@ -4,7 +4,7 @@ Welcome to my professional portfolio. This site is crafted to highlight my skill
 
 ## About Me
 
-I am a seasoned Systems Administrator with over 9 years of experience in IT, currently working at Crunchyroll. My background includes expertise in network administration, system configuration, and troubleshooting. I hold an AAS in Information Technology/Network Administration from Des Moines Area Community College.
+I am a seasoned Systems Administrator with over 10 years of experience in IT, currently working at Crunchyroll. My background includes expertise in network administration, system configuration, and troubleshooting. I hold an AAS in Information Technology/Network Administration from Des Moines Area Community College.
 
 ## Skills
 
